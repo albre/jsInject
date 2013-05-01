@@ -1,0 +1,6 @@
+$("#resultFeatRow0").hide();
+$("#resultFeatRow1").hide();
+$("#resultFeatRow2").hide();
+$("#resultFeatRow3").hide();
+$("#resultFeatRow4").hide();
+$("#resultFeatRow5").hide();
